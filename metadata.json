@@ -1,0 +1,6 @@
+{
+  "name": "Universal AI Interviewer",
+  "description": "Domain-agnostic AI resume evaluation, deep claim verification, adaptive interview platform, and assessment reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
